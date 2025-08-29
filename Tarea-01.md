@@ -4,7 +4,8 @@ Esta *webstory* de [South China Morning Post](https://multimedia.scmp.com/infogr
 
 Las trabajadoras se ven forzadas a dormir en cuartos diminutos que no cuentan con las condiciones de ser habitables o en otras habitaciones de la casa, como el baño o el *living*. Además, tienen que enfrentar la sobreexplotación laboral, maltrato por parte de sus jefes, soledad y deprivación del sueño.
 
-![alt text](<Captura de pantalla 2025-08-24 204329-1.png>)
+<img width="726" height="719" alt="Captura de pantalla 2025-08-24 204329" src="https://github.com/user-attachments/assets/6cc38efd-eaec-4764-a748-c71f42a413b0" />
+
 
 La historia usa datos sobre la crisis habitacional que se vive en Hong Kong, una ciudad con mucha población donde es muy costoso poder acceder a una casa y donde las viviendas son de tamaño pequeño. También, se usan datos sobre las precarias condiciones laborales de las asesoras del hogar, quienes suelen ser inmigrantes con empleadores que no respetan su privacidad ni sus derechos laborales.
 
@@ -17,8 +18,7 @@ Cada historia cuenta con ilustraciones propias que comparten el mismo estilo de 
 
 Se hace uso de planos para mostrar las dimensiones de las casas donde las asesoras del hogar vivían y trabajaban. Algunos de estos planos muestran el antes y el después de la llegada de las trabajadoras a la casa, por los cambios realizados en la vivienda.
 
-
- ![ ](<Captura de pantalla 2025-08-24 195114-2.png>)
+<img width="1189" height="758" alt="Captura de pantalla 2025-08-24 195114-1" src="https://github.com/user-attachments/assets/ffa063cd-cee9-4ec7-966f-c2ac810805ee" />
 
 Después de los testimonios de las 3 mujeres, la *webstory* usa diversos gráficos, fotos y videos para comunicar datos generales sobre la situación laboral de las asesoras del hogar en Hong Kong. El reportaje muestra:
 * El estatus migratorio de las trabajadoras y "la regla de las dos semanas".
@@ -46,7 +46,8 @@ Al ser un tema de relevancia social era fácil empatizar con las trabajadoras, s
 
 La *webstory* hace buen uso de las herramientas que le ofrece el formato digital, crea una historia creativa que logra mantener la atención de sus lectores y hace que se interesen por el tema.
 
-![ ](<Captura de pantalla 2025-08-28 224831.png>)
+<img width="763" height="510" alt="Captura de pantalla 2025-08-28 224831" src="https://github.com/user-attachments/assets/0fc90648-b2a4-4512-a098-47a3401a1b0e" />
+
 
 
 
