@@ -7,17 +7,10 @@ Después de esta tarea siento que comprendo un poco más el funcionamiento bási
 La inteligencia artificial incluída en Pyton es muy útil cuando no sabes como hacer el código y es muy intuitivo, sabe muy rápido que es lo que quieres hacer y como ayudarte.
 
 ╭ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◝╮
-
 ♡  *creando código 
-
 ♡    en Pyton ...
-
 ╰ ◟◞ ͜ ◟ ͜ ◟◞ ͜ ◟ ͜ ◞ ╯
-
 O ° 〃∩　∧＿∧
-
 ⊂⌒（ ´・ω・）
-
 ヽ_っ＿/￣￣￣/
-
 　　＼/＿＿＿/  
