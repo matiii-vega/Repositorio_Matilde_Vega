@@ -6,11 +6,13 @@ El cuarto problema me costó más responderlo, porque en un principio no entend�
 Después de esta tarea siento que comprendo un poco más el funcionamiento básico de Pyton, ya no percibo la plataforma como algo intimidante y difícil de hacer. Lo más complicado es entender bien los comandos y como usarlos para llegar al resultado que quiero, pero siento que con más practica podría utilizar Pyton de forma más eficiente e intuitiva. Fue difícil escribir el código porque cualquier espacio o error de tipeo hacía que el código no funcionara.
 La inteligencia artificial incluída en Pyton es muy útil cuando no sabes como hacer el código y es muy intuitivo, sabe muy rápido que es lo que quieres hacer y como ayudarte.
 
+```
 ╭ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◜◝ ͡ ◝╮
-♡  *creando código 
-♡    en Pyton ...
+♡ ᵘ ᵐᵃᵏᵉ ᵐᵉ ˢᵒ ʰᵃᵖᵖʸ ♡
+♡ ᶦ’ᵐ ᵍˡᵃᵈ ᶦ ℋᵃᵛᵉ ᵘ
 ╰ ◟◞ ͜ ◟ ͜ ◟◞ ͜ ◟ ͜ ◞ ╯
 O ° 〃∩　∧＿∧
 ⊂⌒（ ´・ω・）
 ヽ_っ＿/￣￣￣/
-　　＼/＿＿＿/  
+　　＼/＿＿＿/
+```
